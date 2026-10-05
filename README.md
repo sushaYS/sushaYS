@@ -17,5 +17,3 @@ Python-разработчик и преподаватель информатик
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<img src="https://github-readme-stats.vercel.app/api?username=sushaYS&show_icons=true&count_private=true&hide_border=true&hide_title=true" height="140" />
